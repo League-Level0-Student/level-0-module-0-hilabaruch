@@ -7,8 +7,8 @@ public class MyJavaProgram {
 	public static void main(String[] args) {
 		
 		// START HERE
-	
-		
+	System.out.println("hi");
+	System.out.println("my name is jeff ");
 		
 	}
 }
